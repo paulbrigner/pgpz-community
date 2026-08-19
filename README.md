@@ -117,3 +117,9 @@ npm run forum:update -- \
 ## Deployment
 
 The app is configured for AWS Amplify via `amplify.yml`. Required runtime environment variables should be configured in the Amplify app before deployment.
+
+## License
+
+This project is licensed under the
+[GNU Affero General Public License, version 3 only](LICENSE)
+(`AGPL-3.0-only`).
